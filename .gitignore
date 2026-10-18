@@ -1,0 +1,9 @@
+private/
+*.sqlite3
+*.sqlite3-*
+*.db
+*.zip
+__pycache__/
+*.pyc
+.env
+.env.*

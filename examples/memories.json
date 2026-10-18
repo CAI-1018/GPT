@@ -1,0 +1,21 @@
+{
+  "schema_version": 1,
+  "snapshot_date": "2026-10-19",
+  "timezone": "Asia/Shanghai",
+  "scope": "fictional_example",
+  "memories": [
+    {
+      "id": "example-001",
+      "category": "education",
+      "key": "考试准备偏好",
+      "value": "【虚构示例】希望先拿到练习题和答案，再按清单执行。",
+      "observed_on": "2026-10-01",
+      "source": {"kind": "fictional_example", "note": "仅演示字段，不是实际用户资料"},
+      "status": "active",
+      "confidence": "reported",
+      "sensitivity": "personal",
+      "review_on": null,
+      "supersedes": null
+    }
+  ]
+}
